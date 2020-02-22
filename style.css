@@ -23,7 +23,9 @@ ol{
   color:purple;
 }
 
-
+#disqus_thread{
+  padding:20px;
+}
 
 #grid{
   display:grid;
